@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
 |  |
 | ------- |
@@ -26,4 +27,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
+## Math
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
