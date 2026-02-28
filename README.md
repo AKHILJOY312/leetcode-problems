@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0039-combination-sum](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0039-combination-sum) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -39,4 +40,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
+## Backtracking
+|  |
+| ------- |
+| [0039-combination-sum](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0039-combination-sum) |
 <!---LeetCode Topics End-->
