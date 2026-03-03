@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
+| [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
 ## Tree
 |  |
 | ------- |
@@ -61,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
+## Two Pointers
+|  |
+| ------- |
+| [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
 <!---LeetCode Topics End-->
