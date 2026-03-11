@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Depth-First Search
 |  |
 | ------- |
+| [0207-course-schedule](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0207-course-schedule) |
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Tree
@@ -99,4 +100,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0207-course-schedule) |
+## Graph Theory
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0207-course-schedule) |
+## Topological Sort
+|  |
+| ------- |
+| [0207-course-schedule](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0207-course-schedule) |
 <!---LeetCode Topics End-->
