@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -70,6 +71,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
 |  |
 | ------- |
@@ -77,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
+| [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 ## Two Pointers
 |  |
 | ------- |
@@ -109,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0207-course-schedule) |
+| [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 ## Graph Theory
 |  |
 | ------- |
