@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -83,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Binary Tree
 |  |
 | ------- |
@@ -91,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Two Pointers
 |  |
 | ------- |
@@ -119,12 +122,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
 | ------- |
 | [0133-clone-graph](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0133-clone-graph) |
 | [0207-course-schedule](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0207-course-schedule) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Graph Theory
 |  |
 | ------- |
