@@ -52,7 +52,7 @@ class Graph {
 
 
 
-var findOrder = function(numCourses, prerequisites) {
+var findOrder = function (numCourses, prerequisites) {
 
     const graph = new Graph(numCourses);
 
