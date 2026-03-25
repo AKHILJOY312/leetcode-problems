@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/AKHILJOY312/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -98,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
+| [2236-root-equals-sum-of-children](https://github.com/AKHILJOY312/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
 ## Two Pointers
 |  |
 | ------- |
