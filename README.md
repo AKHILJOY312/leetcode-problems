@@ -45,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AKHILJOY312/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 | [0993-cousins-in-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0993-cousins-in-binary-tree) |
 | [2236-root-equals-sum-of-children](https://github.com/AKHILJOY312/leetcode-problems/tree/master/2236-root-equals-sum-of-children) |
@@ -115,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 ## Trie
 |  |
 | ------- |
@@ -128,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
 ## Breadth-First Search
 |  |
@@ -169,4 +174,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0079-word-search](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0079-word-search) |
+## Data Stream
+|  |
+| ------- |
+| [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
