@@ -44,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0062-unique-paths) |
 | [0371-sum-of-two-integers](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0441-arranging-coins) |
+| [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Heap (Priority Queue)
 |  |
