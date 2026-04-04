@@ -5,7 +5,7 @@
  */
 var mostCommonWord = function (paragraph, banned) {
     const bannedSet = new Set(banned);
-    const paraClean = paragraph.toLowerCase().replace(/[^a-zA-Z0-9 ]/g, " ").split(" ").filter((x) => x && !bannedSet.has(x));
+    const paraClean = paragraph.toLowerCase().split(/[^a-z]+/).filter(w => w.length > 0);
   
     const freq = {};
     for (let i = 0; i < paraClean.length; i++) {
@@ -14,11 +14,12 @@ var mostCommonWord = function (paragraph, banned) {
     let maxNum = 0;
     let maxWord = ''
     for (let ele in freq) {
+        if (bannedSet.has(ele)) continue;
         if (maxNum < freq[ele]) {
             maxNum = freq[ele];
             maxWord = ele;
         }
     }
-    console.log(freq)
+
     return maxWord;
 };
