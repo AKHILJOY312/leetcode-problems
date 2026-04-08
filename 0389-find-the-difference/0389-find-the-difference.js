@@ -4,12 +4,15 @@
  * @return {character}
  */
 var findTheDifference = function(s, t) {
-    let sArr= s.split("").sort();
-    let tArr= t.split("").sort();
-    for(let i=0;i<tArr.length;i++){
-        if(sArr[i] !== tArr[i]){
-            return tArr[i];
-        }
+   let xor = 0;
+
+    for (let ch of s) {
+        xor ^= ch.charCodeAt(0);
     }
-    return ""
+
+    for (let ch of t) {
+        xor ^= ch.charCodeAt(0);
+    }
+
+    return String.fromCharCode(xor);
 };
