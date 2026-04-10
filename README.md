@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0062-unique-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0067-add-binary) |
+| [0292-nim-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0292-nim-game) |
 | [0371-sum-of-two-integers](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0441-arranging-coins) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -201,4 +202,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
