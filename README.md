@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0441-arranging-coins](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0441-arranging-coins) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0190-reverse-bits](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0191-number-of-1-bits) |
 | [0222-count-complete-tree-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0222-count-complete-tree-nodes) |
+| [0342-power-of-four](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0401-binary-watch) |
@@ -226,4 +228,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0326-power-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0342-power-of-four) |
 <!---LeetCode Topics End-->
