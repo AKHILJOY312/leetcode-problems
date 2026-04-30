@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0133-clone-graph) |
+| [0205-isomorphic-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0067-add-binary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0067-add-binary) |
 | [0079-word-search](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0079-word-search) |
+| [0205-isomorphic-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
