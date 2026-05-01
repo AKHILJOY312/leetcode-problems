@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0415-add-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0441-arranging-coins) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0067-add-binary) |
+| [0415-add-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0415-add-strings) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0415-add-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
