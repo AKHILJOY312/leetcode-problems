@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0326-power-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0342-power-of-four) |
 | [0371-sum-of-two-integers](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0371-sum-of-two-integers) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0415-add-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0415-add-strings) |
 | [0441-arranging-coins](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0441-arranging-coins) |
 | [1780-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1780-check-if-number-is-a-sum-of-powers-of-three) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0383-ransom-note](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0392-is-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0409-longest-palindrome](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0415-add-strings) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0371-sum-of-two-integers](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0371-sum-of-two-integers) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0401-binary-watch](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0401-binary-watch) |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 ## Design
 |  |
 | ------- |
