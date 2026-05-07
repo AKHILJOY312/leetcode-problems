@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0409-longest-palindrome](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0415-add-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0415-add-strings) |
 | [0434-number-of-segments-in-a-string](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0434-number-of-segments-in-a-string) |
+| [0459-repeated-substring-pattern](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
@@ -244,4 +245,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0326-power-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0342-power-of-four) |
+## String Matching
+|  |
+| ------- |
+| [0459-repeated-substring-pattern](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0459-repeated-substring-pattern) |
 <!---LeetCode Topics End-->
