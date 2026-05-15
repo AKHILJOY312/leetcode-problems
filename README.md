@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0007-reverse-integer) |
 | [0062-unique-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0067-add-binary) |
 | [0292-nim-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0292-nim-game) |
