@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0136-single-number) |
 | [0495-teemo-attacking](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0495-teemo-attacking) |
+| [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
+| [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Counting Sort
@@ -70,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
