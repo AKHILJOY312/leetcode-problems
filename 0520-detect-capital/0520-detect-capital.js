@@ -4,7 +4,8 @@
  */
 var detectCapitalUse = function(word) {
 
-    const isUpperCase = (char) => char === char.toUpperCase();
+    const isUpperCase = (char) =>{ const ascii = char.charCodeAt(0)
+        return ascii >= 65 && ascii <= 90}
 
     let countUpper = 0;
 
