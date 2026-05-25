@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
@@ -140,6 +141,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0783-minimum-distance-between-bst-nodes](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0783-minimum-distance-between-bst-nodes) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0501-find-mode-in-binary-search-tree) |
+| [0543-diameter-of-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0543-diameter-of-binary-tree) |
 | [0563-binary-tree-tilt](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0563-binary-tree-tilt) |
 | [0617-merge-two-binary-trees](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0617-merge-two-binary-trees) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
