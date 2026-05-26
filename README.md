@@ -114,6 +114,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0520-detect-capital](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0520-detect-capital) |
 | [0521-longest-uncommon-subsequence-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
+| [0551-student-attendance-record-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0551-student-attendance-record-i) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
