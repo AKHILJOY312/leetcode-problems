@@ -1,24 +1,17 @@
-/**
- * @param {number[]} nums
- * @return {number}
- */
-var findLHS = function (nums) {
-    //make a freqency map
-    const freqMap = {};
-    for (let num of nums) {
-        freqMap[num] = (freqMap[num] || 0) + 1;
+var findLHS = function(nums) {
+    const freq = new Map();
+
+    for (const n of nums) {
+        freq.set(n, (freq.get(n) || 0) + 1);
     }
 
-    let maxCount = 0
+    let max = 0;
 
-    //find the pair with max number
-    for (let [num, count] of Object.entries(freqMap)) {
-        let currentNumber = Number(num);
-
-        if (freqMap[currentNumber + 1]) {
-
-            maxCount = Math.max(maxCount, count + freqMap[currentNumber + 1])
+    for (const [n, count] of freq) {
+        if (freq.has(n + 1)) {
+            max = Math.max(max, count + freq.get(n + 1));
         }
     }
-    return maxCount;
+
+    return max;
 };
