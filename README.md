@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0409-longest-palindrome](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0594-longest-harmonious-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0521-longest-uncommon-subsequence-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0521-longest-uncommon-subsequence-i) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0551-student-attendance-record-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0551-student-attendance-record-i) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
