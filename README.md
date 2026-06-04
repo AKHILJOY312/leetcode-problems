@@ -195,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0401-binary-watch](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0401-binary-watch) |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0461-hamming-distance) |
+| [0693-binary-number-with-alternating-bits](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
 ## Design
 |  |
 | ------- |
