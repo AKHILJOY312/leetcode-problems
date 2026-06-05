@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0643-maximum-average-subarray-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0661-image-smoother](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0661-image-smoother) |
+| [0697-degree-of-an-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
+| [0697-degree-of-an-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
