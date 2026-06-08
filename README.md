@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0661-image-smoother](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0661-image-smoother) |
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
 | [0697-degree-of-an-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0697-degree-of-an-array) |
+| [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
@@ -205,6 +207,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
 | [0703-kth-largest-element-in-a-stream](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0703-kth-largest-element-in-a-stream) |
+| [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
 ## Trie
 |  |
 | ------- |
@@ -248,6 +251,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0086-partition-list](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0086-partition-list) |
+| [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -299,4 +303,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0594-longest-harmonious-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
 | [0643-maximum-average-subarray-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0643-maximum-average-subarray-i) |
+## Hash Function
+|  |
+| ------- |
+| [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
 <!---LeetCode Topics End-->
