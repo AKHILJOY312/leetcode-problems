@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0648-replace-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0648-replace-words) |
 | [0677-map-sum-pairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0677-map-sum-pairs) |
+| [0696-count-binary-substrings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 ## Tree
 |  |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0086-partition-list](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0086-partition-list) |
 | [0392-is-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
+| [0696-count-binary-substrings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0696-count-binary-substrings) |
 ## Bit Manipulation
 |  |
 | ------- |
