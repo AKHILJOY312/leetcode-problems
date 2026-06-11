@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0697-degree-of-an-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
+| [0746-min-cost-climbing-stairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
@@ -268,6 +269,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0392-is-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0392-is-subsequence) |
+| [0746-min-cost-climbing-stairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 ## Combinatorics
 |  |
 | ------- |
