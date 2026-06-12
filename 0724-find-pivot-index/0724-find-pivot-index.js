@@ -16,13 +16,9 @@ var pivotIndex = function (nums) {
     for (let i = len - 2; i >= 0; i--) {
         sumRight[i] = sumRight[i + 1] + nums[i]
     }
-console.log(sumLeft,sumRight)
+
     for (let i = 0; i < len; i++) {
-        // leftSum = sumLeft[i] - nums[i]
-        // rightSum = sumRight[i] - nums[i]
-        // if (leftSum == rightSum) {
-        //     return i;
-        // }
+     
         if(sumLeft[i]==sumRight[i]){
             return i;
         }
