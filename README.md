@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0674-longest-continuous-increasing-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0674-longest-continuous-increasing-subsequence) |
 | [0697-degree-of-an-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0697-degree-of-an-array) |
 | [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
+| [0724-find-pivot-index](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0724-find-pivot-index) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
@@ -313,4 +314,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
