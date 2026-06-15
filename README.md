@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0744-find-smallest-letter-greater-than-target](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0746-min-cost-climbing-stairs](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0746-min-cost-climbing-stairs) |
 | [0747-largest-number-at-least-twice-of-others](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0747-largest-number-at-least-twice-of-others) |
+| [0766-toeplitz-matrix](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
@@ -280,6 +281,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0079-word-search](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0079-word-search) |
 | [0661-image-smoother](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0661-image-smoother) |
+| [0766-toeplitz-matrix](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 ## Data Stream
 |  |
 | ------- |
