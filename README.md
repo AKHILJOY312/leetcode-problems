@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0696-count-binary-substrings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0696-count-binary-substrings) |
 | [0806-number-of-lines-to-write-string](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
+| [0824-goat-latin](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0824-goat-latin) |
 ## Tree
 |  |
 | ------- |
