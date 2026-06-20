@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0766-toeplitz-matrix](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0766-toeplitz-matrix) |
 | [0806-number-of-lines-to-write-string](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
+| [0832-flipping-an-image](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0067-add-binary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0067-add-binary) |
 | [0415-add-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0415-add-strings) |
 | [0495-teemo-attacking](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0495-teemo-attacking) |
+| [0832-flipping-an-image](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0832-flipping-an-image) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Backtracking
 |  |
@@ -196,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0696-count-binary-substrings) |
+| [0832-flipping-an-image](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0832-flipping-an-image) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -211,6 +214,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0405-convert-a-number-to-hexadecimal](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0405-convert-a-number-to-hexadecimal) |
 | [0461-hamming-distance](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0461-hamming-distance) |
 | [0693-binary-number-with-alternating-bits](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0693-binary-number-with-alternating-bits) |
+| [0832-flipping-an-image](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0832-flipping-an-image) |
 ## Design
 |  |
 | ------- |
@@ -285,6 +289,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0079-word-search) |
 | [0661-image-smoother](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0661-image-smoother) |
 | [0766-toeplitz-matrix](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0766-toeplitz-matrix) |
+| [0832-flipping-an-image](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0832-flipping-an-image) |
 ## Data Stream
 |  |
 | ------- |
