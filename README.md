@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 | [0832-flipping-an-image](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0832-flipping-an-image) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 | [3264-final-array-state-after-k-multiplication-operations-i](https://github.com/AKHILJOY312/leetcode-problems/tree/master/3264-final-array-state-after-k-multiplication-operations-i) |
 ## Greedy
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0706-design-hashmap](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0706-design-hashmap) |
 | [0804-unique-morse-code-words](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0804-unique-morse-code-words) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0953-verifying-an-alien-dictionary) |
 | [1365-how-many-numbers-are-smaller-than-the-current-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/1365-how-many-numbers-are-smaller-than-the-current-number) |
 ## Math
 |  |
@@ -152,6 +154,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0806-number-of-lines-to-write-string](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0806-number-of-lines-to-write-string) |
 | [0819-most-common-word](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0819-most-common-word) |
 | [0824-goat-latin](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0824-goat-latin) |
+| [0953-verifying-an-alien-dictionary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0953-verifying-an-alien-dictionary) |
 ## Tree
 |  |
 | ------- |
