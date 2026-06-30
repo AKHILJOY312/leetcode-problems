@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0079-word-search](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0079-word-search) |
+| [0088-merge-sorted-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0136-single-number) |
 | [0495-teemo-attacking](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0495-teemo-attacking) |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0088-merge-sorted-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
@@ -208,6 +210,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0015-3sum) |
 | [0086-partition-list](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0086-partition-list) |
+| [0088-merge-sorted-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0392-is-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0696-count-binary-substrings) |
