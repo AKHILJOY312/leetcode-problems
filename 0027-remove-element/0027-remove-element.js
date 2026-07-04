@@ -13,6 +13,6 @@ var removeElement = function(nums, val) {
             count++
         }
     }
-    console.log(nums)
+ 
     return count++;
 };
