@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
 | [0495-teemo-attacking](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0015-3sum) |
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
@@ -71,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0017-letter-combinations-of-a-phone-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0133-clone-graph](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0133-clone-graph) |
+| [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0205-isomorphic-strings) |
 | [0383-ransom-note](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0383-ransom-note) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
@@ -294,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0004-median-of-two-sorted-arrays) |
+| [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
 | [0190-reverse-bits](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0190-reverse-bits) |
 | [0191-number-of-1-bits](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0191-number-of-1-bits) |
 ## Dynamic Programming
