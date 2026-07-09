@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0119-pascals-triangle-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0189-rotate-array) |
 | [0495-teemo-attacking](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
@@ -96,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0029-divide-two-integers](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0029-divide-two-integers) |
 | [0062-unique-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0062-unique-paths) |
 | [0067-add-binary](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0067-add-binary) |
+| [0189-rotate-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0189-rotate-array) |
 | [0292-nim-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0292-nim-game) |
 | [0326-power-of-three](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0342-power-of-four) |
@@ -221,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0086-partition-list](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0086-partition-list) |
 | [0088-merge-sorted-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0392-is-subsequence) |
 | [0541-reverse-string-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0541-reverse-string-ii) |
 | [0696-count-binary-substrings](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0696-count-binary-substrings) |
