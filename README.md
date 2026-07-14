@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0027-remove-element) |
 | [0039-combination-sum](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0039-combination-sum) |
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
+| [0055-jump-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0055-jump-game) |
 | [0079-word-search](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0079-word-search) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0088-merge-sorted-array) |
@@ -47,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0409-longest-palindrome) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
@@ -310,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0062-unique-paths) |
 | [0119-pascals-triangle-ii](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0121-best-time-to-buy-and-sell-stock) |
