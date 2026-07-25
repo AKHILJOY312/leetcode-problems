@@ -7,8 +7,8 @@ var canJump = function (nums) {
     for (let i = 0; i < nums.length; i++) {
         if (i > max_reach) return false;
 
-        max_reach = Math.max(max_reach,i + nums[i]);
-        if (max_reach >= nums.length-1) return true;
+        max_reach = Math.max(max_reach, i + nums[i]);
+        if (max_reach >= nums.length - 1) return true;
     }
 
     return true;
