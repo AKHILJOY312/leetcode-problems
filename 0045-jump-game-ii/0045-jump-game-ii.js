@@ -10,10 +10,6 @@ var jump = function(nums) {
 
     for(let i=0;i<nums.length-1;i++){
         farthest=Math.max(farthest,i+nums[i])
-        console.log("farthest:",farthest)
-         console.log("jumps:",jumps)
-          console.log("currentEnd:",currentEnd)
-           console.log("_________")
 
         if(i===currentEnd){
             jumps++;
