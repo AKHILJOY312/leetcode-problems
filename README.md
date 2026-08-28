@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0189-rotate-array) |
+| [0274-h-index](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0274-h-index) |
 | [0495-teemo-attacking](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0495-teemo-attacking) |
 | [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0274-h-index) |
 | [0389-find-the-difference](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0389-find-the-difference) |
 | [0506-relative-ranks](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0506-relative-ranks) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0169-majority-element) |
+| [0274-h-index](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0274-h-index) |
 | [0383-ransom-note](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0383-ransom-note) |
 | [0561-array-partition](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0561-array-partition) |
 | [0594-longest-harmonious-subsequence](https://github.com/AKHILJOY312/leetcode-problems/tree/master/0594-longest-harmonious-subsequence) |
